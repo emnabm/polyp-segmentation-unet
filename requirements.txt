@@ -1,0 +1,9 @@
+# Versions à figer avec : pip freeze | grep -i -E "torch|opencv|albumentations|segmentation|gradio|numpy|scikit|matplotlib"
+torch
+numpy
+opencv-python-headless
+albumentations
+segmentation-models-pytorch
+gradio
+matplotlib
+scikit-learn
